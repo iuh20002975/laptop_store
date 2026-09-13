@@ -1,0 +1,4 @@
+..
+username:longsky0912624119_db_user
+password:UtdoYJ7QBoGmhtg5
+mongodb+srv://longsky0912624119_db_user:UtdoYJ7QBoGmhtg5@cluster0.sn748ul.mongodb.net/
